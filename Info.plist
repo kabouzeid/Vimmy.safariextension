@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>George Gritsouk</string>
+	<string>Karim Abou Zeid</string>
 	<key>Builder Version</key>
-	<string>13604.5.6</string>
+	<string>14606.1.20.40.3</string>
 	<key>CFBundleDisplayName</key>
-	<string>Vimmy</string>
+	<string>VimmyReborn</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.gggritso.vimmy</string>
+	<string>com.kabouzeid.vimmyreborn</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
@@ -41,7 +41,7 @@
 		</array>
 	</dict>
 	<key>Description</key>
-	<string>Neato Vim keybindings for Safari</string>
+	<string>Neat Vim keybindings for Safari</string>
 	<key>DeveloperIdentifier</key>
 	<string>36948PQEY6</string>
 	<key>ExtensionInfoDictionaryVersion</key>
@@ -56,9 +56,5 @@
 			<string>All</string>
 		</dict>
 	</dict>
-	<key>Update Manifest URL</key>
-	<string>https://raw.github.com/gggritso/Vimmy.safariextension/master/updateManifest.plist</string>
-	<key>Website</key>
-	<string>http://gggritso.github.com/Vimmy.safariextension/</string>
 </dict>
 </plist>
